@@ -20,3 +20,9 @@ We propose a metric called **Representation Stability Score (RSS)** to analyze:
 
 ```bash
 pip install numpy scipy torch torchvision matplotlib
+## Code Structure
+
+- `rss.py` → Original implementation used in paper
+- `compute_rss.py` → Simplified reference version
+- `generate_synthetic.py` → Synthetic dataset
+- `extract_*` → Feature extraction scripts
