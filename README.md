@@ -1,2 +1,3 @@
-# RSS-Representation-Analysis
-Code for RSS-based representation analysis in self-supervised learning.
+# RSS Representation Stability Score
+
+This repository contains code for analyzing representation stability using spectral methods.
