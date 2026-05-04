@@ -1,1 +1,15 @@
+# Ignore large data files
+*.npy
+*.pt
+*.pth
 
+# Ignore folders
+Results/
+data/
+Figures/
+
+# Ignore env
+dino_simclr_env/
+
+# Python cache
+__pycache__/
