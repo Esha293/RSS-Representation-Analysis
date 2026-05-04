@@ -13,3 +13,19 @@ dino_simclr_env/
 
 # Python cache
 __pycache__/
+*.pyc
+# Bytecode
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+# Jupyter
+.ipynb_checkpoints/
+# Model checkpoints
+*.ckpt
+*.h5
